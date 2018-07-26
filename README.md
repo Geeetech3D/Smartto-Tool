@@ -13,6 +13,8 @@ If your OS is Win*, you should download the zip package whose name take "forWin"
 
 If your OS is Mac*, you can download the whole .app folder and run it directly in your OS X.(Make sure your OS X version 10.13+ )
 
+The changelog about firmwares located [here](https://github.com/Geeetech3D/Smartto-Tool/blob/master/CHANGELOG.md)
+
 ### About Upgrading
 
 Usually, user improves machine's mainboard first and then upgrades LCD screen(if exists)
@@ -22,6 +24,10 @@ Usually, user improves machine's mainboard first and then upgrades LCD screen(if
 
 ### Preview and Usage
 
+#### Firmware tool
 <div align=center><img src="https://raw.githubusercontent.com/geeetech3d/smartto-tool/master/docs/assets/upgrade.png" width="400" height="400" alt="firmware-tool-usage" />
+
+#### Motor tool
 <div align=center><img src="https://raw.githubusercontent.com/geeetech3d/smartto-tool/master/docs/assets/get_status.png" width="400" height="400" alt="firmware-tool-usage" />
 <div align=center><img src="https://raw.githubusercontent.com/geeetech3d/smartto-tool/master/docs/assets/set_status.png" width="400" height="400" alt="firmware-tool-usage" />
+
