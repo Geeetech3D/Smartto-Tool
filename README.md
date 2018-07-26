@@ -26,10 +26,10 @@ Usually, user improves machine's mainboard first and then upgrades LCD screen(if
 
 #### Firmware tool
 
-<div align=center><img src="https://raw.githubusercontent.com/geeetech3d/smartto-tool/master/docs/assets/upgrade.png" width="400" height="400" alt="firmware-tool-usage" /></div>
+<div align=center><img src="https://raw.githubusercontent.com/geeetech3d/smartto-tool/master/docs/assets/upgrade.png" alt="firmware-tool-usage" /></div>
 
 #### Motor tool
 
-<div align=center><img src="https://raw.githubusercontent.com/geeetech3d/smartto-tool/master/docs/assets/get_status.png" width="400" height="400" alt="firmware-tool-usage" /></div>
-<div align=center><img src="https://raw.githubusercontent.com/geeetech3d/smartto-tool/master/docs/assets/set_status.png" width="400" height="400" alt="firmware-tool-usage" /></div>
+<div align=center><img src="https://raw.githubusercontent.com/geeetech3d/smartto-tool/master/docs/assets/get_status.png" alt="firmware-tool-usage" /></div>
+<div align=center><img src="https://raw.githubusercontent.com/geeetech3d/smartto-tool/master/docs/assets/set_status.png" alt="firmware-tool-usage" /></div>
 
