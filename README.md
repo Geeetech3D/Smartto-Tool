@@ -26,10 +26,12 @@ Usually, user improves machine's mainboard first and then upgrades LCD screen(if
 
 #### Firmware tool
 
-<div align=center><img src="https://raw.githubusercontent.com/geeetech3d/smartto-tool/master/docs/assets/upgrade.png" alt="firmware-tool-usage" /></div>
+<div align=center><img src="https://raw.githubusercontent.com/geeetech3d/smartto-tool/master/docs/assets/local_upgrading.gif" alt="firmware-tool-usage1" /></div>
+<div align=center><img src="https://raw.githubusercontent.com/geeetech3d/smartto-tool/master/docs/assets/remote_upgrading.gif" alt="firmware-tool-usage2" /></div>
+
+**Attention**: Remote upgrading only upgrade your mainboard. You can access the folder "{ROOT}/Firmware/extract/"(*.app/Contents/Resources/Firmware/extract/ in Mac version) to find your target firmware file
 
 #### Motor tool
 
-<div align=center><img src="https://raw.githubusercontent.com/geeetech3d/smartto-tool/master/docs/assets/get_status.png" alt="firmware-tool-usage" /></div>
-<div align=center><img src="https://raw.githubusercontent.com/geeetech3d/smartto-tool/master/docs/assets/set_status.png" alt="firmware-tool-usage" /></div>
+<div align=center><img src="https://raw.githubusercontent.com/geeetech3d/smartto-tool/master/docs/assets/motor.gif" alt="motor-tool-usage" /></div>
 

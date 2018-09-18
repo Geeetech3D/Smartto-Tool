@@ -4,22 +4,18 @@
 
 ### Latest Version
 
-#### V1.1
+#### V1.2
 
 ##### New features
-Add information tag
+1. Support upgrading with .hex file(for A10/A10M...)
+2. Support remote upgrading
+3. UI adjustment
 
 ## Motor tool
 
 ### Latest Version
 
-#### V1.1
+#### V1.2
 
 ##### New features
-1. Support command M500
-2. Support installed path with non-english character
-3. Add information tag
-
-##### Bug fixes
-1. Completed message showing after command sent
-2. Fixed timeout mechanism failure when getting motor status
+1. UI adjustment
